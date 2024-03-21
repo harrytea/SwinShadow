@@ -1,0 +1,21 @@
+swin_model: 'swin_b_p4_w12_384'
+swin_b_p4_w12_384:
+  num_classes: 21841
+  img_size: 384
+  embed_dim: 128
+  depths: [ 2, 2, 18, 2 ]
+  num_heads: [ 4, 8, 16, 32 ]
+  window_size: 12
+ckpt_model: './istd/ckpt'
+ckpt_image: './istd/image'
+iter: 20000
+save_epoch: 10
+beta1: 0.5
+batch_size: 4
+loss: "MyWcploss"
+optimizer:
+  use: "SGD"
+  lr: 0.005
+  weight_decay: 0.0005
+  momentum: 0.9
+logfile: './istd/ckpt/train.log'
