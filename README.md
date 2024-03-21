@@ -36,6 +36,12 @@ modify `tool/istddata.py` line 27 and line 28, run `python istd.py`, the ckpt wi
 
 run `python tistd.py/tsbu.py/tucf.py`, the file will be saved in `results/xxx`
 
+
+## Results
+
+You can download the SBU, ISTD, and UCF results of our method from this [link](https://pan.baidu.com/s/16YqkCWFPTeKvWghw00maRw) (code:gxqt).
+
+
 ## Evaluation
 
 the evaluation code is in the `evaluation` folder, using matlab to evaluate the results.
