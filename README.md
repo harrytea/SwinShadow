@@ -1,5 +1,6 @@
 # SwinShadow
 
+> Official PyTorch implementation for TOMM24 "SwinShadow: Shifted Window for Ambiguous Adjacent Shadow Detection"
 
 ## Requirement
 
