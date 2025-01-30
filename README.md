@@ -14,14 +14,14 @@ pip install -r requirements.txt
 
 ## Datasets
 
-* [SBU dataset](https://pan.baidu.com/s/1T17NSC8ynJnsoWzETm2pBw) code:gxqt
-* [ISTD, ISTD+ dataset](https://pan.baidu.com/s/1psdyDHDyG20VbKUlnNhkjQ) code:gxqt
-* [UCF dataset](https://pan.baidu.com/s/1GzUWWvhbVOHQnDVjsYR0Zw) code:gxqt
+* [SBU dataset](https://pan.baidu.com/s/13FFl5132EolFbeorO0TyHQ?pwd=gxqt) code:gxqt
+* [ISTD, ISTD+ dataset](https://pan.baidu.com/s/1N6ZchTsrR8CizFBKyfrIQw?pwd=gxqt) code:gxqt
+* [UCF dataset](https://pan.baidu.com/s/1v-Y_q3QgS6h3g_pjezeCVg?pwd=gxqt) code:gxqt
 
 
 ## Training
 
-download the pretrain Swin Transformer backbone from [here](https://pan.baidu.com/s/1l6YTVAWOLA7hZ9KduLaSeg) (code:gxqt), put it in the model folder
+download the pretrain Swin Transformer backbone from [here](https://pan.baidu.com/s/1Vav0KJ0LAD5A5zfblGerQw?pwd=gxqt) (code:gxqt), put it in the model folder
 
 **1. training on sbu dataset**
 
